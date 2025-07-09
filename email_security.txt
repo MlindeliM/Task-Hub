@@ -1,0 +1,16 @@
+email_security.txt
+1. What three things should have alerted you to the fact that the email from the bank was not legitimate?
+=>You must check the spelling and grammar mistakes, which are not normal in official bank communications.
+=>Check the sender's email address if it matches the bank's official domain.
+=>When the email asked for your personal information like bank card number, PIN, login details on which the bank will not ask you that information via email.
+
+2. Do you think it is possible your computer is infected with malware based on the given email scenario? Justify your answer.
+=>Yes it's possible that the computer might be infected with malware once they openned the email attachments or click the link on that email.
+=> On which that can be harmful because the person could lose information because the attacker will have control over the device and be exposed to a lot of data.
+
+3. Write a paragraph to train fellow employees on phishing, social engineering and how to avoid malware infection (200 - 400 words).
+=>Phishing is one of the common cyberattack where hackers uses fake emails pretending to be trusted domain or organization.
+=> Their aim is to trick you to open an attachment or click a provided link inorder to get access to your device to get your sesnsitive personal information like your ID, Banking information, your social media platform and pretend to be you to your peers.
+=> To avoid becoming a victim, is to stop using public internet cafe to access your online banking, always use VPN if you're using a public WIFI or connection, make sure you don't save or click remember your password on public or shared computers.
+=> Avoid downloading attachments on suspiciouse emails, verify the sender. Always have updated antivirus.
+=> Don't use same password in all your accounts.
