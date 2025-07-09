@@ -1,1 +1,9 @@
-data_breach.txt
+Data breach check results
+Email checked: mlindeli.matsheke@gmail.com
+Results: My email is green, was not found in any known breaches on Have I Been Pwned.
+
+What do you think the risk is for individuals when their email addresses and passwords are exposed to the public?
+=> chances are, the attackers will try to log into the email account and access the information they not supposed to access them or personal data.
+Name two actions you can take to protect yourself against the risks associated with data breaches.
+=> I will use a strong secure password that is not easy to crack it and not use the same password to all your accounts.
+=>Is to enable encryption or authentication which will request a person to enter the OTP number sent to mobile number.
